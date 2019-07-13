@@ -1,0 +1,16 @@
+{
+    "name": "msaami/laravel-bulk",
+    "description": "insert or update bunch of data in eloquent",
+    "authors": [
+        {
+            "name": "Mehrdad Saami",
+            "email": "MehrdadSaami@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Msaami\\Bulk\\": "src"
+        }
+    }
+}
